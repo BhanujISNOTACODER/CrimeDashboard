@@ -1,0 +1,17 @@
+﻿Index,Crime Head Col. (2),Cases Pending Investigation from Previous Year - Col. (3),Cases Reported during the year - Col. (4),Cases Reopened for Investigation - Col. (5),Total Cases for Investigation (Col.3+Col.4+Col.5) - Col. (6),Cases Not Investigated Under 157_1_b CRPC - Col. (7),Cases Transferred to Other State or Agency - Col. (8),Cases Withdrawn by the Govt during Investigation - Col. (9),Final Report - Cases Ended as FR Non Cognizable - Col. (10),Final Report - Cases Ended as Final Report False - Col. (11),Final Report - Cases Ended as Mistake of Fact or of law or Civil Dispute - Col. (12),Final Report - Cases True but Insufficient Evidence or Untraced or No Clue - Col. (13),Final Report - Cases Abated during Investigation - Col. (14),Final Report - Total (Col.10+Col.11+Col.12+Col13+Col.14) - Col. (15),Charge Sheets Submitted - Cases ChargeSheeted Out of cases From Prev. Year - Col. (16),Charge Sheets Submitted - Cases Charge sheeted Out of Cases during the year - Col. (17),Charge Sheets Submitted - Cases Charge sheeted (Col.16+Col.17) - Col. (18),Total Cases Disposed Off by Police (Col.7+8+15+18) - Col. (19),Cases Quashed at Investigation Stage - Col. (20),Cases Stayed at Investigation Stage - Col. (21),Cases Pending Invsgn.at end of the year (Col.6-9-19-20) - Col. (22),Chargesheeting Rate (Col.18/19*100) - Col. (23),Pendency Percentage (Col.22/6*100) - Col. (24)
+1,Murder with Rape/Gang Rape,184,284,0,468,0,0,0,0,9,3,9,1,22,48,183,231,253,0,0,215,91.3,45.9
+2,Dowry Deaths,3692,6753,5,10450,0,2,0,5,199,202,330,4,740,1893,4316,6209,6951,0,0,3499,89.3,33.5
+3,Abetment to Suicide of Women,3568,5292,21,8881,0,5,0,6,197,117,157,8,485,1618,3156,4774,5264,6,8,3611,90.7,40.7
+4,Miscarriage,149,196,0,345,0,0,0,0,17,6,53,0,76,32,92,124,200,0,0,145,62.0,42.0
+5,Acid Attack,59,102,0,161,0,0,0,0,4,2,6,0,12,26,71,97,109,0,0,52,89.0,32.3
+6,Attempt to Acid Attack,34,48,0,82,0,0,0,0,2,1,6,0,9,8,25,33,42,0,1,40,78.6,48.8
+7,Cruelty by Husband or his relatives,54484,136234,9,190727,3,110,1,44,6938,7037,6860,131,21010,27623,86681,114304,135427,256,141,55043,84.4,28.9
+8,Kidnapping and Abduction of Women,52447,75369,18,127834,11,23,0,236,11680,19628,14753,305,46602,9184,20334,29518,76154,31,56,51649,38.8,40.4
+15,Procuration of Minor Girls,2931,2566,3,5500,0,4,0,1,681,284,664,22,1652,483,751,1234,2890,4,26,2606,42.7,47.4
+18,Human Trafficking,660,914,2,1576,0,1,0,0,19,25,43,3,90,290,469,759,850,0,0,726,89.3,46.1
+21,Rape,14391,31677,59,46127,3,119,0,14,4009,819,1355,59,6256,6807,19357,26164,32542,48,29,13537,80.4,29.3
+24,Attempt to Commit Rape,1794,3800,0,5594,0,1,0,0,730,196,213,14,1153,709,2031,2740,3894,0,0,1700,70.4,30.4
+27,Assault on Women with Intent to Outrage her Modesty,34994,89200,12,124206,0,60,0,221,6764,3625,4121,110,14841,18551,58617,77168,92069,52,43,32085,83.8,25.8
+30,Insult to the Modesty of Women,5185,7788,0,12973,0,1,0,10,361,170,434,12,987,2443,4337,6780,7768,0,6,5205,87.3,40.1
+34,Dowry Prohibition Act,7719,13568,0,21287,1,49,0,32,418,670,1086,23,2229,3241,7462,10703,12982,13,4,8292,82.4,39.0
+45,Protection of Children from Sexual Offences Act,18573,52836,28,71437,1,128,0,36,920,552,1001,71,2580,10674,39356,50030,52739,15,64,18683,94.9,26.2
