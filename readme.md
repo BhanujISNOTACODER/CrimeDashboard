@@ -12,7 +12,7 @@ This page presents the following:
 * The **states with the lowest crime rates** during this period.
 
 
-![alt text](./Images/Crimes%20Overview%20Page.png)
+![alt text](./Images/Images%20for%20Readme/Page%202.png)
 
 ## 2. CRIMES AGAINST FORIEGNERS IN INDIA FROM 2019 -2021
 
@@ -23,4 +23,4 @@ This page presents the following:
 * A **bar chart** illustrating the distribution of different types of crimes committed.
 
 
-![alt text](./Images/Crimes%20Foriegner.png)
+![alt text](./Images/Images%20for%20Readme/Page%203.png)
