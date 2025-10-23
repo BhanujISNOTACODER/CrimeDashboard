@@ -20,7 +20,7 @@ This page presents the following:
 
 * A **slicer** that filters the data by a specific year, or displays it as an aggregation of all three years.
 * **Cards** showing the number of crimes committed against foreigners.
-* A **column chart** illustrating the distribution of different types of crimes committed.
+* A **bar chart** illustrating the distribution of different types of crimes committed.
 
 
 ![alt text](./Images/Crimes%20Foriegner.png)
