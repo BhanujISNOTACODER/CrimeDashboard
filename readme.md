@@ -3,11 +3,17 @@
 A Power BI dashboard built using data from data.gov.in
 , providing comprehensive insights into crime patterns across India. The dashboard highlights key trends such as the most common crimes committed, year-wise variations, crimes against women, cybercrimes, and crimes against foreigners.
 
+### Tech Stack Used:
+ - Excel: Data Cleaning, Forming New Columns.
+ - Python: Data Filtering, , Data Prepration.
+ - Power BI: Created Dashboards and used features like Power Query, DAX.
+
+
 # 1. CRIMES IN INDIA FROM 2020-2022
 This page presents the following:
 
 * A crime trend from **2020 to 2022**, based on the total crimes committed in these years.
-* A card displaying the **total crimes committed** across all three years.
+* A card displaying thes **total crimes committed** across all three years.
 * The **top five states** with the highest crime rates.
 * The **states with the lowest crime rates** during this period.
 
@@ -64,7 +70,7 @@ This section provides deeper insights into the **types of cybercrimes** with the
 
 ![alt text](./Images/Images%20for%20Readme/Page%207.png)
 
-# 7. 🔍 Key Insights
+# 7. Key Insights
 
 This section highlights the most critical insights derived from the crime data spanning from **2019 to 2022**, focusing on overall trends, crimes against women, and cybercrime.
 
